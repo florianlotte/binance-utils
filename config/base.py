@@ -1,0 +1,5 @@
+DATABASE_URL_ASYNC = ""
+DATABASE_URL = ""
+
+API_KEY = ""
+API_SECRET = ""
